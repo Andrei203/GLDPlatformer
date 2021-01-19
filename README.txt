@@ -26,3 +26,5 @@ I couldn't upload the video + executable on GIT so I have made a sharable onedri
 
 If ran as an execuble extract the file from the ZIP, and then go to WindowsNoEditor and click GLDAssignment.exe.
 If ran through the Engine Simply open up GLDAssignment.uproject and can be run by pressing the play button or ALT+P, once in the engine please click build at the top. For some reason the lights break when the project files are downloaded.
+
+If no issues occour please ignore this file.
