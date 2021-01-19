@@ -1,6 +1,6 @@
 Hello
 
-GitHub REPO: https://github.com/Andrei203/GLD-3DPlatformer
+GitHub REPO: https://github.com/Andrei203/GLDPlatformer
 
 All the work is created by me.
 
