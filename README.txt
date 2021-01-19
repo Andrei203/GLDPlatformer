@@ -1,6 +1,6 @@
 Hello
 
-GitHub REPO: https://github.com/Andrei203/GLDPlatformer
+GitHub REPO: https://github.com/Andrei203/GLD-3DPlatformer
 
 All the work is created by me.
 
@@ -24,5 +24,5 @@ Link to OneDrive (Executable + Video):
 https://uweacuk-my.sharepoint.com/:u:/g/personal/andrei2_barlea_live_uwe_ac_uk/ER3uoQEc-iBDvoOvtMRRkyUBVwRXy1vd0BBaV7YOoTuuig?email=Sean2.Butler%40uwe.ac.uk&e=elDpiX
 I couldn't upload the video + executable on GIT so I have made a sharable onedrive link that is linked to Sean's email.
 
-If ran as an execuble extract the file from the ZIP, and then go to WindowsNoEditor and click GLDAssignment.exe
-If ran through the Engine Simply open up GLDAssignment.uproject and can be run by pressing the play button or ALT+P
+If ran as an execuble extract the file from the ZIP, and then go to WindowsNoEditor and click GLDAssignment.exe.
+If ran through the Engine Simply open up GLDAssignment.uproject and can be run by pressing the play button or ALT+P, once in the engine please click build at the top. For some reason the lights break when the project files are downloaded.
